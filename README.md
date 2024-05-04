@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning Python, Data Analysis/Visualization, SQL and Business Analyst which I found so interesting. 
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me robinyen311@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love Bluebird chips! 
 
 <!---
 robinorex/robinorex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
