@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Robin welcome to my little space! I am currently studying Business Data Science in the University of Otago, New Zealand.
 - 👀 I’m interested in Data Analysis, computer vision, Machine Learning and Businesss Intelligence.
-- 🌱 I’m currently learning Python, Data Analysis/Visualization, SQL and Business Analyst which I found so interesting. 
+- 🌱 I’m proficienct in Python, Data Analysis/Visualization tool, SQL and Business Analyst method which I found so interesting. 
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me robinyen311@gmail.com.
 - ⚡ Fun fact: I love Bluebird chips! 
